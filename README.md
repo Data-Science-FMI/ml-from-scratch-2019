@@ -15,3 +15,4 @@
 ## Resources
 
 - [The State of Data Science & Machine Learning (2017)](https://www.kaggle.com/surveys/2017)
+- [Fast.ai - International Fellowship](http://forums.fast.ai/t/fast-ai-live-the-new-version-of-the-international-fellowship/22825)
