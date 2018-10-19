@@ -23,3 +23,7 @@
 - [The State of Data Science & Machine Learning (2017)](https://www.kaggle.com/surveys/2017)
 - [Fast.ai - International Fellowship](http://forums.fast.ai/t/fast-ai-live-the-new-version-of-the-international-fellowship/22825)
 - [Mathematics for Machine Learning (Book)](https://mml-book.github.io/)
+
+## Exam
+
+- [https://www.kaggle.com/c/ga-customer-revenue-prediction](Kaggle Challenge)
