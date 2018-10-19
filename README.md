@@ -27,3 +27,14 @@
 ## Exam
 
 - [Kaggle Challenge](https://www.kaggle.com/c/ga-customer-revenue-prediction)
+
+### Teams
+
+- P.H., L.M.
+- A.R., L.V.
+- G.M., G.F., S.O.
+- L.P. N.P.
+- Кьополу - L.B., E.K.
+- Д.А., Т.М.
+- Мусака - Т.Н., З.К.
+
