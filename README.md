@@ -26,4 +26,4 @@
 
 ## Exam
 
-- [https://www.kaggle.com/c/ga-customer-revenue-prediction](Kaggle Challenge)
+- [Kaggle Challenge](https://www.kaggle.com/c/ga-customer-revenue-prediction)
