@@ -6,6 +6,7 @@
 - [1. NumPy basics](https://drive.google.com/file/d/1lZp_nDK2uEuSUatVErJZ_WXOWQik9Uhk/view?usp=sharing)
 - [2. Logistic Regression (Starter)](https://colab.research.google.com/drive/1Iv96deYP5wAEmw52UkO3-sApL5vxOG9G)
 - [3. Logistic Regression Part II (starter)](https://colab.research.google.com/drive/1_ZhyERaPhIZq09VRb0MMebWXF--FJTlg)
+- [4. Linear Regression (Starter)](https://colab.research.google.com/drive/1Hp7RDI6mjgmNz8AnK5ORIg-OR44CHP8g)
 
 ## Slides
 
