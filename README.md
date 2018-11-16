@@ -28,7 +28,7 @@
 
 ## Exam
 
-- [Kaggle Challenge](https://www.kaggle.com/c/ga-customer-revenue-prediction)
+- [Kaggle Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ### Teams
 
