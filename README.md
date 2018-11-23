@@ -8,6 +8,7 @@
 - [3. Logistic Regression Part II (starter)](https://colab.research.google.com/drive/1_ZhyERaPhIZq09VRb0MMebWXF--FJTlg)
 - [4. Linear Regression (Starter)](https://colab.research.google.com/drive/1Hp7RDI6mjgmNz8AnK5ORIg-OR44CHP8g)
 - [5. Decision Trees (Starter)](https://colab.research.google.com/drive/1v-0Byr_m7mUu1Gd_W1cer-TFEGcS9fB7)
+- [5. Decision Trees (Complete)](https://colab.research.google.com/drive/10Xth5hTSdrbkrGU2Ai4GdWA_zAE_BMzf)
 
 ## Slides
 
