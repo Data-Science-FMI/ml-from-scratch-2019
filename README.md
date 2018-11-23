@@ -32,6 +32,22 @@
 
 - [Kaggle Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
+### Requirements for entering the exam
+
+- Implementation (from scratch) of a Random Forest model
+- Train your model on the training data, predict on the test data and upload the result to Kaggle
+
+### Decision tree source code
+
+Our implementation of a Decision tree model can be found here - https://colab.research.google.com/drive/10Xth5hTSdrbkrGU2Ai4GdWA_zAE_BMzf
+You can use it to build your Random Forest.
+
+### Resources
+
+- (Introduction to Machine Learning for Coders)[https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96]
+- (Random Forest Simple Explanation)[https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d]
+- (Random Forest in Python)[https://towardsdatascience.com/random-forest-in-python-24d0893d51c0]
+
 ### Teams
 
 - B.H., L.M.
