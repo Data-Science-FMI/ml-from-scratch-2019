@@ -39,8 +39,7 @@
 
 ### Decision tree source code
 
-Our implementation of a Decision tree model can be found here - [Decision Tree source code](https://colab.research.google.com/drive/10Xth5hTSdrbkrGU2Ai4GdWA_zAE_BMzf)
-You can use it to build your Random Forest.
+Our implementation of a Decision tree model can be found here - [Decision Tree source code](https://colab.research.google.com/drive/10Xth5hTSdrbkrGU2Ai4GdWA_zAE_BMzf). You can use it to build your Random Forest.
 
 ### Resources
 
