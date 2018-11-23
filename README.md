@@ -44,9 +44,9 @@ You can use it to build your Random Forest.
 
 ### Resources
 
-- (Introduction to Machine Learning for Coders)[https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96]
-- (Random Forest Simple Explanation)[https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d]
-- (Random Forest in Python)[https://towardsdatascience.com/random-forest-in-python-24d0893d51c0]
+- [Introduction to Machine Learning for Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96)
+- [Random Forest Simple Explanation](https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d)
+- [Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 
 ### Teams
 
