@@ -41,6 +41,8 @@
 
 Our implementation of a Decision tree model can be found here - [Decision Tree source code](https://colab.research.google.com/drive/10Xth5hTSdrbkrGU2Ai4GdWA_zAE_BMzf). You can use it to build your Random Forest.
 
+The notebook contains example code for generating your `submission.csv` file that you must upload for Kaggle to score it.
+
 ### Resources
 
 - [Introduction to Machine Learning for Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96)
