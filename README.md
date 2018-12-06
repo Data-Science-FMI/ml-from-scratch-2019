@@ -1,7 +1,5 @@
 # ml-from-scratch-2019
 
-# <span style="color:red;">Днес (30-ти ноември) *няма да имаме лекции/упражнения*</span>
-
 ## Labs
 
 - [0. Python basics](https://drive.google.com/file/d/15v1tkJbu6L1WbHMUUebpw8z2f3J2dRil/view?usp=sharing)
