@@ -30,6 +30,12 @@
 
 ## Exam
 
+### Lowest error solution
+
+- [By team "А. К., М. М., Д.И."](https://github.com/duciito/house_prices)
+
+### Challenge
+
 - [Kaggle Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ### Requirements for entering the exam
